@@ -5,19 +5,34 @@ La journée du Lamsade aura lieu le 18 avril.
 == Programmé
 Nous avons convenu avec Marie-Clotilde (4 mars) que nous suivrons le programme de l’année dernière concernant les pauses café.
 
-Mourad Baiou a accepté de parler à la JdL pour l'hommage à Michel Balinski.
-
-Abdallah viendra parler. « Est-ce que tu voudrais nous parler à cette occasion, en tant qu’ancien
+* Mot de bienvenue (10 min)
+* Mourad Baiou a accepté de parler à la JdL pour l'hommage à Michel Balinski (30 min).
+* Abdallah viendra parler. « Est-ce que tu voudrais nous parler à cette occasion, en tant qu’ancien
 du LAMSADE ? Tu pourrais par exemple indiquer ce que tu es devenu, ce
 que le LAMSADE t’a apporté, peut-être aborder tes problématiques de
 recherche actuelles ? Tu pourrais avoir qqch. comme 30 minutes
 (négociable !). »
+* Marc Pirlot présentera le mesurage conjoint (40 min).
+* Jérôme Lang présentera son travail avec Terra Nova sur le Référendum d’Initiative Citoyenne (10 min) (« Ca marche, compte-moi 10 mn et j'en prendrai 6-7 »).
 
-Marc Pirlot présentera le mesurage conjoint.
-
-Format de l’année dernière : 10 + 20 + 40 + 20 + 15 + 40 + 20 + 15 + 15 + 40 + 10 + 40 + 10 + 20 + 40 + 15 + 30 = 400 minutes
+Format de l’année dernière : 10 + 20 + 40 + 20 + 15 + 40 + 20 + 15 + 15 + 40 + 10 + 40 + 10 + 20 + 40 + 15 + 30 = 400 minutes. Slots contigus : 105 + 90 + 100 + 105.
 
 400 min / 30 min = 13 slots
+
+Déjà programmé : 120 min.
+
+=== Envisagé
+* Jacob Abernathi (40 min) ? ⇒ Yann nous tient au courant.
+* Qui sont les nouveaux doctorants du Lamsade ? (20 min)
+* Présentations de 15 min par doctorant de certains doctorants de deuxième et troisième année (60 min)
+* 2 personnes internes par pôle, ou 2+1+2, ou une seule ⇒ 200 min
+** Juliette sur les jeux coop ou autres (40 min discussion comprise)
+** Hassène
+** Florian Y. ou qqn d’autre
+** Michael
+
+=== Abandonné
+* Deux hommages en plus (60 min)
 
 == e-mail Laurent 5 février
 merci d'avoir accepté la difficile mais hautement gratifiante mission d'organiser la journée du LAMSADE pour 2019. Comme d'habitude ça se passera à l'IHP. Eleni a fait une réservation d'un amphi (18 avril), et d'une autre salle pour les pause café/déjeuner. Il y a aura des travaux dans le hall de l'IHP mais la salle pour les pauses et autre ne seront pas loin. Marie-Clotilde se charge de la réservation du resto le soir. Restez en lien avec Eleni et Marie pour caler horaires des pauses café et déjeuner. Sinon vous pouvez solliciter Hawa pour rédiger le programme. Merci de lui communiquer le plus en avance possible pour diffusion.
@@ -25,7 +40,6 @@ merci d'avoir accepté la difficile mais hautement gratifiante mission d'organis
 Pour l'aspect scientifique c'est vous les maîtres à bord. N'hésitez pas à vous rapprocher de l'équipe de l'an passé pour partager leur expérience (si ma mémoire est bonne, Denis était déjà là). Et n'hésitez pas à vous manifester s'il y a un besoin matériel quelconque dans votre projet (nous avions par exemple eu besoin d'un espace et de matériel pour les posters il y a 3 ans).
 
 == Pistes
-
 * intercaler sérieux et léger
 * invited speaker, avec du recul, qui présente bien, et qui soit intéressant pour qqn qui n’est pas du domaine
 * présentation théorique ML
@@ -35,4 +49,8 @@ Pour l'aspect scientifique c'est vous les maîtres à bord. N'hésitez pas à vo
 * Rida ou Mourad Baiou : hommage à Balinski. Hommages à Frédéric Maffray et Pierre Duchet
 * Autre domaine de recherche de Paris-Dauphine en lien avec l’informatique ? Cérémade ?
 * Exposé sur les pratiques ou l’impact de la recherche par un collègue sociologue ?
+
+== Données
+* Rida Laraki sera absent.
+* Eun Jung sera absente.
 
